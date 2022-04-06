@@ -11,8 +11,8 @@
     <div class="header" id="myHeader">
       <button class="button buttonHome" onclick="location.href='index.php';">HOME</button>
 			<button class="button buttonCatalog" onclick="location.href='catalog.php';">CATALOG</button>
-			<button class="button buttonLogin" onclick="location.href='login.php';">LOGIN</button>
+			<button class="button buttonLogin" onclick="location.href='userdashboard.php';">USER PANEL</button>
       <button class="button buttonSignup" onclick="location.href='signup.php';">SIGNUP</button>
-			<button class="button buttonAbout" onclick="location.href='about.php';">ABOUT</button>
+			<button class="button buttonAbout" onclick="location.href='admin/adminuser.php';">ADMIN PANEL</button>
     </div>
                         
