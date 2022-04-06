@@ -1,0 +1,25 @@
+<?php
+    include_once 'adminpanel.php';
+?>
+
+<div class="content">
+            <p class="heading">Journals</p>
+            <p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque elit eget gravida cum. Pharetra convallis posuere morbi leo urna molestie at. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Eu turpis egestas pretium aenean pharetra magna. Augue mauris augue neque gravida in. Arcu dictum varius duis at consectetur. Maecenas ultricies mi eget mauris pharetra et ultrices. Id leo in vitae turpis massa sed elementum tempus egestas. Sed risus pretium quam vulputate dignissim suspendisse in. Lorem mollis aliquam ut porttitor leo a diam. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in. Justo nec ultrices dui sapien eget mi proin sed. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Amet facilisis magna etiam tempor orci eu lobortis elementum. Vitae justo eget magna fermentum.
+
+                                Mi ipsum faucibus vitae aliquet. Potenti nullam ac tortor vitae purus faucibus ornare. Nulla facilisi etiam dignissim diam quis. Morbi leo urna molestie at elementum eu facilisis. Viverra ipsum nunc aliquet bibendum. Nec dui nunc mattis enim ut. Senectus et netus et malesuada fames ac turpis egestas maecenas. Et pharetra pharetra massa massa ultricies mi quis hendrerit dolor. Consequat semper viverra nam libero justo laoreet sit amet cursus. Scelerisque viverra mauris in aliquam sem. Id diam maecenas ultricies mi eget mauris pharetra. Morbi enim nunc faucibus a. Urna nunc id cursus metus aliquam. Vitae purus faucibus ornare suspendisse sed nisi. Mollis nunc sed id semper risus in. Et tortor consequat id porta nibh venenatis cras sed.
+
+                                Eros donec ac odio tempor orci dapibus ultrices. Ultrices sagittis orci a scelerisque. Risus ultricies tristique nulla aliquet enim tortor at auctor urna. Pulvinar neque laoreet suspendisse interdum. Pharetra et ultrices neque ornare aenean euismod. Tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Iaculis urna id volutpat lacus laoreet non curabitur. Feugiat nibh sed pulvinar proin gravida hendrerit. Enim praesent elementum facilisis leo vel fringilla est. Egestas diam in arcu cursus euismod quis viverra. Tempus iaculis urna id volutpat. Amet tellus cras adipiscing enim eu turpis egestas pretium. Sed vulputate odio ut enim. Neque aliquam vestibulum morbi blandit cursus risus at ultrices mi. Sagittis eu volutpat odio facilisis mauris sit amet. Blandit aliquam etiam erat velit scelerisque in dictum. Aliquet sagittis id consectetur purus ut faucibus.
+
+                                In eu mi bibendum neque egestas congue quisque egestas diam. Venenatis tellus in metus vulputate eu scelerisque felis. Tortor at risus viverra adipiscing. Vel orci porta non pulvinar neque laoreet suspendisse. Placerat in egestas erat imperdiet sed. Sed lectus vestibulum mattis ullamcorper velit. Pellentesque habitant morbi tristique senectus et. Varius sit amet mattis vulputate enim nulla. Nibh tortor id aliquet lectus proin nibh nisl condimentum. Nunc congue nisi vitae suscipit tellus mauris a diam. Pulvinar elementum integer enim neque volutpat. Feugiat nisl pretium fusce id velit ut tortor pretium. In iaculis nunc sed augue lacus. Urna cursus eget nunc scelerisque viverra mauris in aliquam. Elit sed vulputate mi sit amet mauris. Diam vulputate ut pharetra sit amet aliquam id diam. Magna ac placerat vestibulum lectus mauris ultrices eros.
+
+                                Amet nisl suscipit adipiscing bibendum est ultricies integer quis. Turpis in eu mi bibendum neque egestas congue. Pharetra diam sit amet nisl suscipit adipiscing. Vitae purus faucibus ornare suspendisse sed nisi lacus. Vel orci porta non pulvinar neque laoreet suspendisse interdum. Etiam dignissim diam quis enim lobortis scelerisque fermentum. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in. Lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique. Integer eget aliquet nibh praesent tristique magna sit amet purus. Eget magna fermentum iaculis eu non diam phasellus. Imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Ut tortor pretium viverra suspendisse potenti nullam ac. Mi bibendum neque egestas congue. Tincidunt id aliquet risus feugiat in. Elit ut aliquam purus sit amet luctus venenatis lectus. Nunc id cursus metus aliquam eleifend mi in. Neque viverra justo nec ultrices dui sapien eget. Justo donec enim diam vulputate ut pharetra sit.
+            </p>
+        </div>
+    </section>
+
+
+
+
+<?php
+    include_once '../footer.php';
+?>
