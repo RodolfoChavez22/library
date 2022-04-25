@@ -1,2 +1,0 @@
-#this is for the sake of using any connect login any maybe to save potentially sensitive data idk remove /connect.php so that its not in the git ignore and can be published in git
-/connect.php
